@@ -1,13 +1,31 @@
-# [ProjectName] Design Brief
+# [Cheatsheets] Design Brief
 
 ## A brief summary of the business / site goals.
-*What problems are you trying to solve? What is the purpose of the app? (2-3 sentences)*
+Cheatsheets provides a platform for people to explore, create and modify
+cheat sheets. A cheat sheet is a list of terms with descriptions to be used as
+reference when learning a new tool/language/framework. Users need to be able to
+quickly reference exisiting cheat sheets and modify others to customize their
+learning experience.
 
 ## The key users.
-*Describe behaviors, expectation, knowledge, or other characteristics. (One sentence each)*
+Users can explore and find existing cheat sheets created by other users. They
+can clone existing cheat sheets and modify them to suit their needs. They can
+also create new cheat sheets from scratch. There is an expectation that the site
+is easy to navigate and quickly reference a specific term at a moments notice.
 
 ## Scenarios in which your app or site will be used.
-*These should be short narratives of the above users with your app / site. (One sentence each)*
+A user is learning a new programming language, Ruby. They have learnt an
+enormous amount of syntax and terms and are worried about forgetting it. In
+order to preserve their knowledge and have a living document to reference, they
+visit Cheatsheets. Cheatsheets provides them with exisitng Ruby Cheatsheets'
+which they draw inspiration from. They decide to start a fresh Cheatsheet and
+slowly add more 'cheats' as they learn more.
+
+Another user is experienced using Vim but can often forget some of the more
+complicated commands. They find an existing Cheatsheet to reference and become
+more skilled using Vim.
 
 ## Design style guidelines to follow.
-*These are a list of qualities or characteristics (usually adjectives) you'd like the design to follow. The more specific you are with these the easier it will be for you to create a compelling design (e.g. don't use "Clean"). (2-3 words)*
+* Easy to look at for extended periods of time
+* Balanced
+* Embrace the grid
